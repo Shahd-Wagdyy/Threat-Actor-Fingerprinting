@@ -1,0 +1,33 @@
+cluster_id,label,category,motivation,confidence,notes
+0,Long-form Cybersecurity Persona Commentary,community_persona,social,0.24,Long-form stylometric persona posting
+1,Linux versus Windows Culture Commentary,technology_culture,social,0.24,OS tribalism and tech culture humor
+2,Government Tracking Criticism,privacy_activism,ideological,0.21,Government monitoring and tracking criticism
+3,Digital Rights and Piracy Activism,digital_rights,ideological,0.15,Free culture and anti-tracking discussions
+4,Privacy and Anti-Google Narrative,privacy_technology,ideological,0.49,Privacy-focused technology concerns
+5,Malware and AI Security Commentary,malware_discussion,informational,0.48,Malware and AI security discussions
+6,Spanish Breach Reporting,cybercrime_reporting,informational,0.89,Spanish breach and leak reporting ecosystem
+7,VX Underground Persona Posting,community_persona,social,0.93,Humor and hacker culture persona posts
+8,Privacy and Open Technology Discussion,technology_discussion,ideological,0.82,Open-source privacy and anti-telemetry content
+9,Telegram TON Ecosystem Promotion,platform_marketing,commercial,0.97,Telegram and TON ecosystem growth promotion
+10,VX Underground Commentary,community_commentary,social,0.86,General cyber and tech commentary
+11,Anti-Surveillance and Anti-Censorship Narrative,digital_rights,ideological,0.94,VPN and anti-blocking discourse
+12,Government Tracking Criticism,privacy_activism,ideological,0.92,Government monitoring and tracking criticism
+13,Cybersecurity Humor and Commentary,community_commentary,social,0.84,Humorous cyber observations and memes
+14,Anti-Regulation Cyber Commentary,community_commentary,ideological,0.83,AI regulation and cyber commentary
+15,VX Underground Meme Posting,community_persona,social,0.9,Meme-heavy VX Underground communication
+16,ShinyHunters and Social Engineering Commentary,cybercrime_commentary,informational,0.88,Discussion of social engineering and cybercrime events
+17,VX Underground Research Commentary,community_persona,social,0.87,Research-oriented personal cyber commentary
+18,Malware and AI Security Commentary,malware_discussion,informational,0.89,Malware and AI security discussions
+19,Privacy and Anti-Google Narrative,privacy_technology,ideological,0.81,Privacy-focused technology concerns
+20,Mobile Privacy and Open Android Ecosystem,privacy_technology,ideological,0.96,GrapheneOS and Android privacy ecosystem
+21,Technical Malware Research Commentary,malware_research,informational,0.95,Deep technical malware and Windows internals discussion
+22,Cybercrime Drama and Satirical Commentary,community_commentary,social,0.79,Cybercrime satire and online drama
+23,Digital Rights and Piracy Activism,digital_rights,ideological,0.91,Free culture and anti-tracking discussions
+24,Cyber Incident Aggregation,breach_reporting,informational,0.93,General breach and cyber incident aggregation
+25,Telegram Personal Updates,platform_persona,social,0.78,Personal and event-oriented Telegram posting
+26,TON Blockchain Ecosystem Promotion,crypto_ecosystem,commercial,0.98,TON and Telegram crypto ecosystem promotion
+27,VX Underground Personal Life Posting,community_persona,social,0.8,Personal life and social posting
+28,Linux versus Windows Culture Commentary,technology_culture,social,0.88,OS tribalism and tech culture humor
+29,Advanced Malware and Cybersecurity Commentary,malware_research,informational,0.96,Advanced malware and cybersecurity observations
+30,Cybersecurity Community Commentary,community_commentary,social,0.85,General cyber community discussion
+31,Long-form Cybersecurity Persona Commentary,community_persona,social,0.97,Long-form stylometric persona posting
